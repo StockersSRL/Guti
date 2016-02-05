@@ -1,2 +1,3 @@
 cuando scrolleas se corre el usrmenu
 hacer las magias de eliminar el searchc y crearlo nuevo en el subheader para poder usar las mismas funciones
+hola
